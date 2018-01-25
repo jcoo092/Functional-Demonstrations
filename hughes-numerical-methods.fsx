@@ -2,6 +2,8 @@
 Prepared by James Cooper at the University of Auckland during October 2017, as a supplement for UoA's Computer Science 335 paper
 Email: jcoo092@aucklanduni.ac.nz
 
+Copyright [2017] [James Cooper]
+
 Transcribed from John Hughes' 1989 paper "Why Functional Programming Matters" (see https://doi.org/10.1093/comjnl/32.2.98).  
 This code is intended as a supplement to demonstrate how to work with laziness in F#, 
 and should be examined in conjunction with reading Hughes' paper, which explains in much more detail what is happening.
