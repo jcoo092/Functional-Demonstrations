@@ -5,7 +5,7 @@ Currently this repository just hosts an F# script file that I wrote for educatio
 
 The script is an implementation of some of the material from Hughes' 1987 paper 'Why functional programming matters' ([available online](https://doi.org/10.1093/comjnl/32.2.98)), specifically material relating to lazy evaluation and its uses.  Numerical methods relying on laziness for finding a square root, and estimating the derivative of a function at a given point, are shown and explained.  This is targeted primarily at undergraduate level students who have just been introduced to functional programming, but should be suitable for anyone who has learnt the basics of programming.
 
-To run the script, simply open a terminal window, navigate to the folder you have the script contained in, and run the following command (assuming that you have F# installed and the Interactive executable on your system's path):
+To run the script, simply open a terminal window that has F# Interactive on the PATH (the Visual Studio Developer Command Prompt should have this, if you have F# installed with Visual Studio), navigate to the folder you have the script contained in, and run the following command (assuming that you have F# installed and the Interactive executable on your system's path):
 
 ```
 fsi hughes-numerical-methods.fsx
